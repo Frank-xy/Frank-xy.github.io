@@ -1,38 +1,38 @@
 ---
-title: Hello World
+title: 个人简历
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
+简历简历
 
-## Quick Start
+## 简历简历
 
-### Create a new post
-
-``` bash
-$ hexo new "My New Post"
-```
-
-More info: [Writing](https://hexo.io/docs/writing.html)
-
-### Run server
+### 简历简历简历简历简历简历
 
 ``` bash
-$ hexo server
+$ 简历简历简历简历简历简历
 ```
 
-More info: [Server](https://hexo.io/docs/server.html)
+简历简历简历简历
 
-### Generate static files
+### 简历简历简历简历简历简历简历简历简历简历简历简历
 
 ``` bash
-$ hexo generate
+$ 简历简历简历简历
 ```
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+简历简历简历简历简历简历简历简历
 
-### Deploy to remote sites
+### 简历简历
 
 ``` bash
-$ hexo deploy
+$ 简历简历简历简历
 ```
 
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+简历简历简历简历简历简历
+
+### 简历简历
+
+``` bash
+$ 简历简历简历简历简历简历简历简历
+```
+
+简历简历简历简历简历简历简历简历简历简历简历简历简历简历
